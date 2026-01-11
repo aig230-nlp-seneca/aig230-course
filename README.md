@@ -7,7 +7,6 @@ You can view and pull materials from here, but you cannot push code.
 
 ## Structure
 - `syllabus/` – Course syllabus
-- `schedule/` – Weekly schedule
 - `setup/` – Software setup instructions
 - `labs/` – Links to lab starter repositories
 - `resources/` – References and extra material
